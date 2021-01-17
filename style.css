@@ -11,6 +11,14 @@ img {
     height: 200px;
 }
 
+main {
+    margin: 100px 0;
+}
+
+main a {
+    text-decoration: none;    
+}
+
 .carrito img {
     height: 65px;
 }
@@ -34,3 +42,4 @@ img {
 footer {
     margin: 60px 0;
 }
+
